@@ -1,1 +1,1 @@
-Moves your mouse every X seconds haha
+Moves your mouse every 59 seconds haha
